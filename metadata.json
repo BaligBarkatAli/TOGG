@@ -1,0 +1,8 @@
+{
+  "name": "TOGG",
+  "description": "The ultimate smart home controller with voice commands and real-time monitoring.",
+  "requestFramePermissions": [
+    "microphone",
+    "bluetooth"
+  ]
+}
